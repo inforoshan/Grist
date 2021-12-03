@@ -1,0 +1,11 @@
+
+]
+java:S1128	"@Remove this unused import 'io.grits.backend.model.CustomerType'.(ıÔÿ8ÀÆÒ¹Á/
+L
+java:S3740-"/Provide the parametrized type for this generic.(è„§¸8ùĞ­®¾/
+°
+java:S1130+"’Remove the declaration of thrown exception 'org.springframework.security.core.userdetails.UsernameNotFoundException' which is a runtime exception.(ÌÃŸ8ÃøÚ¯¾/
+£
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Š¦İıÿÿÿÿ8ùĞ­®¾/
+H
+java:S1905B"+Remove this unnecessary cast to "UserRole".(¥ó­Œ8ë…¶³Å/

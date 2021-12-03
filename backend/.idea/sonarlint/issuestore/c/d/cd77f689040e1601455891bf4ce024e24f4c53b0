@@ -1,0 +1,28 @@
+
+K
+java:S1905f".Remove this unnecessary cast to "RawMaterial".(á„ŞÍ8áªœ¸Á/
+W
+java:S3655f":Call "rawMaterial.isPresent()" before accessing the value.(á„ŞÍ8™¹˜Î/
+n
+java:S2259P"LA "NullPointerException" could be thrown; "oldRawMaterial" is nullable here.(Ëûûÿÿÿÿ8™”‘üÎ/
+—
+java:S1130'"zRemove the declaration of thrown exception 'io.grits.backend.exception.RawMaterialException' which is a runtime exception.(İØô¦8áªœ¸Á/
+Q
+java:S3740k"/Provide the parametrized type for this generic.(ˆñ˜Éşÿÿÿÿ8áªœ¸Á/
+L
+java:S1611u"/Remove the parentheses around the "e" parameter(ÁÇšÆ8áªœ¸Á/
+H
+java:S1612l",Replace this lambda with a method reference.(ˆŞ:8áªœ¸Á/
+£
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò¦úñøÿÿÿÿ8áªœ¸Á/
+Y
+java:S3655-"7Call "Optional#isPresent()" before accessing the value.(Ø»Ì™úÿÿÿÿ8™”‘üÎ/
+
+java:S1488H"lImmediately return this expression instead of assigning it to the temporary variable "rawMaterialResponses".(ô„…¯ÿÿÿÿÿ8áªœ¸Á/
+Q
+java:S3740t"/Provide the parametrized type for this generic.(…àÜúùÿÿÿÿ8áªœ¸Á/
+N
+java:S1611l"2Remove the parentheses around the "data" parameter(ˆŞ:8áªœ¸Á/
+H
+java:S1602l",Remove useless curly braces around statement(ˆŞ:8áªœ¸Á/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(•„†İûÿÿÿÿ8Í–­¹Á/

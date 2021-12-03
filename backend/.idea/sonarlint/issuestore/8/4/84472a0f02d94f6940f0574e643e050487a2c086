@@ -1,0 +1,45 @@
+
+c	java:S112Χ"FDefine and throw a dedicated exception instead of using a generic one.(Έ°ή²8ρθρ‰Ο/
+O
+java:S1602",Remove useless curly braces around statement(¨Εξμϊÿÿÿÿ8ρθρ‰Ο/
+Z
+java:S3655 "7Call "Optional#isPresent()" before accessing the value.(¨Εξμϊÿÿÿÿ8ρθρ‰Ο/
+Z
+java:S3655Θ"7Call "Optional#isPresent()" before accessing the value.(–€ΪΜψÿÿÿÿ8ρθρ‰Ο/
+Z
+java:S3655ΰ"7Call "Optional#isPresent()" before accessing the value.(³υρώψÿÿÿÿ8ρθρ‰Ο/
+T
+java:S1611`"2Remove the parentheses around the "data" parameter(τϊδψÿÿÿÿ8ΐ†π Α/
+Z
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(¨Εξμϊÿÿÿÿ8ρθρ‰Ο/
+O
+java:S1602 ",Remove useless curly braces around statement(ωγ¬ϊÿÿÿÿ8ρθρ‰Ο/
+Z
+java:S3655Σ"7Call "Optional#isPresent()" before accessing the value.(Έ€’—ϊÿÿÿÿ8ρθρ‰Ο/
+c	java:S112ω"FDefine and throw a dedicated exception instead of using a generic one.(ζ¦Γ8ρθρ‰Ο/
+T
+java:S3655D"7Call "Optional#isPresent()" before accessing the value.(οζΙω8ΐ†π Α/
+J
+java:S1602·",Remove useless curly braces around statement(ΈΉΦδ8ρθρ‰Ο/
+Z
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(‹φΈΞωÿÿÿÿ8ΐ†π Α/
+£
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›χƒυύÿÿÿÿ8ΐ†π Α/
+U
+java:S3655Ξ"7Call "Optional#isPresent()" before accessing the value.(–ωΉ΄8ρθρ‰Ο/
+i
+java:S1128"LRemove this unused import 'org.springframework.data.repository.query.Param'.(©”τ8Θω‰Ο/
+Z
+java:S3655‚"7Call "Optional#isPresent()" before accessing the value.(Σ…ρωÿÿÿÿ8ΐ†π Α/
+U
+java:S3655‘"7Call "Optional#isPresent()" before accessing the value.(ΓεªΙ8ρθρ‰Ο/
+‘
+java:S1130@"tRemove the declaration of thrown exception 'io.grits.backend.exception.OrderException' which is a runtime exception.(†Ϊµ8•»Ώ‰Ο/
+T
+java:S3655¶"7Call "Optional#isPresent()" before accessing the value.(—Έ²8ρθρ‰Ο/
+O
+java:S1602΄",Remove useless curly braces around statement(¨Εξμϊÿÿÿÿ8ρθρ‰Ο/
+O
+java:S1602 ",Remove useless curly braces around statement(¨Εξμϊÿÿÿÿ8ρθρ‰Ο/
+Z
+java:S3655΄"7Call "Optional#isPresent()" before accessing the value.(¨Εξμϊÿÿÿÿ8ρθρ‰Ο/

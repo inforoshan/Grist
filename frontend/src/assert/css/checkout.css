@@ -1,0 +1,43 @@
+.grid-card-checkout
+{
+
+}
+
+.paypal-button
+{
+    border: none !important;
+}
+.card-content-checkout
+{
+    padding: 10px !important;
+}
+.checkout-images
+{
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.reduction .increase
+{
+    margin: 10px !important;
+}
+
+.remove_button
+{
+    width: 59%;
+}
+
+.cross-button
+{
+    float: right;
+    background: #ff0909a3;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cross-button i
+{
+    color: white;
+    vertical-align: bottom;
+}

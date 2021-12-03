@@ -1,0 +1,19 @@
+.footer-container
+{
+    width: 100% !important;
+    text-align: center;
+}
+
+.page-footer
+{
+    background-color: black;
+}
+
+.custom-footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding:0 !important;
+    z-index: 1;
+}

@@ -1,0 +1,72 @@
+html,
+body,
+.middle-box 
+{
+  height: 100%;
+}
+
+.middle-box
+{
+  margin-top: 20px;
+  align-items: baseline;
+}
+
+.raw-material-ui-buttons
+{
+  width: 100%;
+  margin-top: 10px;
+}
+
+.raw-material-ui-buttons input
+{
+  float: left;
+  padding-top: 7px;
+}
+
+.image-upload-lable
+{
+  background-color: #252525;
+}
+
+.image-upload-lable:hover
+{
+  background-color: #bbbbbb;
+}
+
+.top-style
+{
+  margin-top: 10px;
+}
+
+.raw-table-images img
+{
+  width: 20% !important;
+  float: left;
+  margin-left: 10px;
+}
+
+.table-image-td
+{
+  width: 20%;
+}
+
+.delete-button-raw
+{
+  margin-left: 10px;
+}
+
+
+.raw-material-edit .active
+{
+  background-color: transparent !important;
+}
+
+.password-user
+{
+  color: black !important;
+}
+
+.table-user
+{
+  float: unset !important;
+}

@@ -1,0 +1,72 @@
+.view-raw-materials-footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 2;
+    float: right;
+}
+
+.view-raw-materials-show-pages {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    color: white;
+}
+
+.raw_home {
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px 0;
+    background: #e5e5e5;
+}
+
+.grid-card {
+    max-width: 400px;
+    min-height: 420px;
+    -webkit-flex: 1 0 290px;
+    flex: 1 0 290px;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 290px;
+    float: left;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.card-images {
+    width: 350px !important;
+    height: 300px !important;
+}
+
+.card .card-image img {
+    top: 10px !important;
+}
+
+.feedback-main-page
+{
+    padding-top: 12px !important;
+}
+
+.search
+{
+    background-color: rgba(3, 3, 4, 0.65);
+    margin-bottom: 0px !important;
+}
+
+#search
+{
+    color: white;
+    font-size: 25px;
+}
+
+.order-checkbox
+{
+    margin-top: 14px;
+    color: white !important;
+    position: relative !important;
+    float: right;
+    margin-right: 20px;
+    font-size: 10px !important;
+}
